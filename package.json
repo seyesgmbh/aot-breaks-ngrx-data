@@ -1,5 +1,5 @@
 {
-  "name": "ndaot",
+  "name": "aot-breaks-ngrx-data",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
